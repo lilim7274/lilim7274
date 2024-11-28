@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me Email: murillolorival@gmail.com
 - 😄 Pronouns: Call me whatever you want
-- ⚡ Fun fact: i like you:3
+- ⚡ Fun fact: i like you :3
 
 <!---
 lilim7274/lilim7274 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
